@@ -1,0 +1,537 @@
+*{
+    margin: 0;
+}
+
+.main1{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    position: sticky;
+}
+.main1 h1{
+    font-size: 15px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.main1 h2{
+    font-size: 15px;
+    position: relative;
+    top: -10px;
+    left: 1400px;
+}
+.main1 h3{
+    position: relative;
+    top: -40px;
+    left: 290px;
+}
+.main1 input{
+    position: relative;
+    top: -70px;
+    left: 500px;
+    height: 30px;
+    width: 400px;
+    border-radius: 2px;
+}
+.main1 h4{
+    position: relative;
+    top: -95px;
+    left: 1100px;
+    font-size: 15px;
+}
+.main1 h5{
+    font-size: 15px;
+    position: relative;
+    top: -112px;
+    left: 1200px;
+}
+h6{
+        font-size: 15px;
+        position: relative;
+        top: -128px;
+        left: 1350px;
+}
+.ratt{
+    font-size: 15px;
+    position: relative;
+    top: -146px;
+    left: 1450px;
+}
+
+.main2{
+    background-color: antiquewhite;
+    height: 60px;
+    width: 100%;
+    position: sticky;
+}
+.main2 h1{
+    font-size: 16px;
+    position: relative;
+}
+.main2 h2{
+    font-size: 16px;
+    position: relative;
+    left: 15px;
+}
+.main2 h3{
+    font-size: 16px;
+    position: relative;
+    left: 30px;
+}
+.main2 h4{
+    font-size: 16px;
+    position: relative;
+    left:45px;
+}
+.main2 h5{
+    font-size: 16px;
+    position: relative;
+    left: 60px;
+}
+.main2 h6{
+    font-size: 16px;
+    position: relative;
+    left: 75px;
+    top: 0;
+}
+.kk{
+    background-color: antiquewhite;
+    height: 20px;
+    width: 900px;
+    position: relative;
+    top: 20px;
+    left: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.k1{
+    position: relative;
+    left: 1200px;
+    height: 40px;
+    top: -10px;
+    border-radius: 10px;
+}
+
+.main3{
+    background-color: white;
+    position: relative;
+    height: 170px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.main3 img{
+    height: 126px;
+}
+.kkk{
+    height: 40px;
+    width: 100%;
+    position: relative;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+}
+.kkk h1{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 85px;
+}
+.kkk h2{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 265px;
+}
+.kkk h3{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 420px;
+}
+.kkk h4{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 575px;
+}
+.kkk h5{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 705px;
+}
+.kkk p{
+    font-size: 16px;
+    position: relative;
+    top: 10px;
+    left: 840px;
+}
+
+.main4{
+    position: relative;
+    top: 30px;
+    background-color: blue;
+    height: 300px;
+}
+.main4 img{
+    height: 300px;
+    width: 100%;
+}
+
+
+.main5{
+    position:relative;
+    height: 50px;
+    top: 10px;
+    width: 100%;
+}
+
+.main6{
+    position:relative;
+    height: 300px;
+    top: 230px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.main6 h1{
+    position: relative;
+    top: 110px;
+    left: 10px;
+}
+.main6 h2{
+    position: relative;
+    top: 110px;
+    left: 10px;
+}
+.kl{
+    background-color: whitesmoke;
+    position: relative;
+    height: 140px;
+    width: 1000px;
+    left: 400px;
+    top: -30px;
+    display: flex;
+    flex-direction: row;
+}
+.kl img{
+    height: 125px;
+    margin: 10px;
+}
+.kl h1{
+    position: relative;
+    font-size: 20px;
+    left: -1000px;
+    top: 140px;
+}
+.kl h2{
+    position: relative;
+    font-size: 20px;
+    left: -800px;
+    top: 140px;
+}
+.kl h3{
+    position: relative;
+    font-size: 20px;
+    left: -650px;
+    top: 140px;
+}
+.kl h4{
+    position: relative;
+    font-size: 20px;
+    left: -500px;
+    top: 140px;
+}
+.main6 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 35px;
+}
+.main7{
+    height: 90px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    top: 240px;
+}
+.main7 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 35px;
+}
+
+.main8{
+    height: 90px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    top: 240px;
+}
+.main8 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 35px;
+}
+
+
+.main9{
+    height: 90px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    top: 240px;
+}
+.main9 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 35px;
+}
+
+
+.main10{
+    height: 90px;
+    width: 100%;
+    background-color: whitesmoke;
+    position: relative;
+    top: 240px;
+}
+.main10 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 35px;
+}
+
+.main10 img{
+    height: 70px;
+    width: 100px;
+    left: 50px;
+    position: relative;
+}
+
+.main11 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 270px;
+}
+
+.main11 img{
+    height: 70px;
+    width: 100px;
+    left: 50px;
+    position: relative;
+}
+
+.main12{
+    height: 400px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 70px;
+    left: 80px;
+}
+
+.main13 h5{
+    font-size: 25px;
+    position: relative;
+    left: 520px;
+    top: 320px;
+}
+
+.main13 img{
+    height: 70px;
+    width: 100px;
+    left: 50px;
+    position: relative;
+}
+
+.main14{
+    height: 400px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 100px;
+    left: 80px;
+}
+
+.main15{
+    height: 400px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main15 h1{
+    top: 355px;
+    position: relative;
+    left: 13px;
+    font-size: 22px;
+}
+.main15 h2{
+    top: 360px;
+    position: relative;
+    left: 1250px;
+    font-size: 16px;
+}
+.main15 img{
+    height: 190px;
+    position: relative;
+    top: 450px;
+    left: -50px;
+    margin: 5px;
+}
+
+
+.main16{
+    height: 400px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main16 h1{
+    top: 355px;
+    position: relative;
+    left: 13px;
+    font-size: 22px;
+}
+.main16 h2{
+    top: 360px;
+    position: relative;
+    left: 1250px;
+    font-size: 16px;
+}
+.main16 img{
+    height: 190px;
+    position: relative;
+    top: 450px;
+    left: -50px;
+    margin: 5px;
+}
+
+
+
+.main17{
+    height: 400px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main17 h1{
+    top: 355px;
+    position: relative;
+    left: 13px;
+    font-size: 22px;
+}
+.main17 h2{
+    top: 360px;
+    position: relative;
+    left: 1250px;
+    font-size: 16px;
+}
+.main17 img{
+    height: 190px;
+    position: relative;
+    top: 450px;
+    left: -50px;
+    margin: 5px;
+}
+
+.main18{
+    height: 300px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main18 img{
+    height: 300px;
+    width: 100%;
+    position: relative;
+    top: 300px;
+}
+
+
+.main19{
+    height: 300px;
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.main19 img{
+    height: 300px;
+    width: 100%;
+    position: relative;
+    top: 310px;
+}
+
+.main20{
+    height: 430px;
+    width: 100%;
+    background-color: orange;
+    position: relative;
+    top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.main1 img{
+    height: 60px;
+    position: relative;
+    width: 100px;
+    left: 50px;
+}
+
+.main21{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(6, 6, 94);
+    position: relative;
+}
+.main21 h1{
+    position: relative;
+    left: 30px;
+    top: 10px;
+    color: white;
+}
+.main21 h2{
+    position: relative;
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    top: 20px;
+}
+.main21 img{
+    position: relative;
+    top: 70px;
+    left: 600px;
+}
+.main21 h3{
+    position: relative;
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    top: 80px;
+    left: 500px;
+}
+.main21 h3{
+    position: relative;
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+    top: 80px;
+    left: 500px;
+}
+
